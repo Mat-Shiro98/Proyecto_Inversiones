@@ -7,8 +7,10 @@ Este proyecto es una página web estática que proporciona información sobre in
 - `index.html`: Página principal que contiene la estructura básica del sitio.
 - `css/`: Carpeta que contiene los estilos CSS para el sitio.
 - `js/`: Carpeta para los scripts JavaScript, si es necesario.
-- `images/`: Carpeta para las imágenes utilizadas en el sitio.
+- `img/`: Carpeta para las imágenes utilizadas en el sitio.
 - `docs/`: Documentación adicional del proyecto.
+- `plantillas/`: Modelos para el frontend.
+- `web/`: Otras páginas...
 
 ## Funcionalidades
 - Información detallada sobre diferentes tipos de inversiones.
